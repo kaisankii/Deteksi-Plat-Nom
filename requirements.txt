@@ -1,0 +1,6 @@
+# Initial dependencies for the ANPR demo.
+# Verify versions/imports against anpr_ev.py and live_camera.py before publishing.
+fast-alpr
+opencv-python
+pandas
+openpyxl
